@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_file_system_task",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "author": "Emmanuel",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
